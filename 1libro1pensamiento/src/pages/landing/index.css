@@ -1,0 +1,111 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+header h1 {
+  font-size: 36px;
+}
+
+header p {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 10px 20px;
+  margin-top: 30px;
+  background-color: #fff;
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+/* Sección de Beneficios */
+#beneficios {
+  background-color: #fff;
+  padding: 50px 0;
+  text-align: center;
+}
+
+#beneficios ul {
+  list-style: none;
+}
+
+#beneficios li {
+  font-size: 24px;
+  margin: 20px 0;
+}
+
+.content {
+  width: 80%;
+  text-align: center;
+}
+
+.main-header {
+  background-color: #007bff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  color: #fff;
+  padding: 100px 0;
+}
+
+
+.secondary-header {
+  background-color: #007bff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  color: #fff;
+  padding: 20px 0;
+}
+
+.main-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #ffffff;
+  color: #333;
+  padding: 20px 0;
+}
+
+.secondary-section {
+  background-color: #eaeaea;
+  color: #626262;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  padding: 20px 0 40px;
+}
+
+p {
+  text-align: justify;
+}
+h2 {
+  text-align: justify;
+}
+
+/* Otras secciones */
+/* Agrega estilos para las secciones de recursos, testimonios, equipo, etc. según sea necesario */
+
+/* Footer */
+footer {
+  text-align: center;
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+}
+
+footer p {
+  font-size: 16px;
+}
