@@ -7,8 +7,8 @@ function MadameBobary_001() {
   return (
     <>
       <Helmet>
-        <title>Potenciación - Primero de Secundaria</title>
-        <meta name="description" content="Aprende todo sobre la potenciación en los números enteros, y consulta ejemplos, ejercicios resueltos y ejercicios propuestos para que domines a la perfeccción este tema." />
+        <title>001 | Madame Bobary | Gustave Flaubert</title>
+        <meta name="description" content="Resumen de la novela Madame Bobary de Gustave Flaubert" />
       </Helmet>
       <div className='main-header'>
         <h1>Un libro, un pensamiento</h1>
@@ -77,7 +77,7 @@ function MadameBobary_001() {
 
       <div className="secondary-section" id='temas'>
           <h2>Algunos otros libros</h2>
-          <a href="/001">Madame Bovary</a>
+          <a href="/001">001 | Madame Bobary | Gustave Flaubert</a>
       </div>
 
       <footer>
